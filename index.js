@@ -5,7 +5,7 @@ for (let i = 0; i < items.length; i++) {
   items[i].addEventListener("click", function () {
     let active = document.querySelectorAll(".active");
     active[0].className = active[0].className.replace("active", "");
-    this.className += " active";
+    this.className += "active";
 //     console.log(this.className);
   });
 }
