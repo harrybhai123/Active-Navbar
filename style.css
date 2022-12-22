@@ -6,6 +6,7 @@ html {
 }
 
 ul {
+  margin: 0;
   list-style: none;
   display: flex;
   background-color: #000;
