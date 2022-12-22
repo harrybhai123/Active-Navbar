@@ -1,0 +1,24 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  background-color: #000;
+  border: 1px ridge black;
+}
+.list-item {
+  padding: 1em 1em;
+  color: whitesmoke;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #fff;
+  color: #000;
+}
