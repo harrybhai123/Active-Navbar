@@ -1,2 +1,2 @@
 # Active Navbar
-<a href="https://active-navbar.netlify.app/"> CLICK And SEE Website</a>
+<a href="https://active-navbar.netlify.app/"> CLICK And SEE WEBSITE </a>
